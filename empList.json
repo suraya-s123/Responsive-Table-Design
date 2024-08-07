@@ -1,0 +1,202 @@
+{
+  "employees": [
+    {
+      "id": "02",
+      "name": "Md. Amamul Islam",
+      "department": "Management",
+      "designation": "COO",
+      "joiningDate": "01/05/2009",
+      "phone": "01723-480180",
+      "bloodGroup": "B(+VE)",
+      "email": "amamulkhanbd@gmail.com",
+      "education": "MBA"
+    },
+    {
+      "id": "98",
+      "name": "Mohammad Amdadul Islam",
+      "department": "Management",
+      "designation": "CTO",
+      "joiningDate": "01/12/2019",
+      "phone": "01753163092",
+      "bloodGroup": "B(+VE)",
+      "email": "amdadcse13@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "25",
+      "name": "Golam Mostafa",
+      "department": "Management",
+      "designation": "Sr. programmer",
+      "joiningDate": "07/07/2011",
+      "phone": "01730-165858",
+      "bloodGroup": "AB (+VE)",
+      "email": "mostafakhulna@yahoo.com",
+      "education": "MSc"
+    },
+    {
+      "id": "32",
+      "name": "Md. Babul Akter",
+      "department": "Management",
+      "designation": "HR Officer",
+      "joiningDate": "09/06/2012",
+      "phone": "01918785478",
+      "bloodGroup": "AB(+VE)",
+      "email": "babulaktrkhan@gmail.com",
+      "education": "MSS"
+    },
+    {
+      "id": "79",
+      "name": "Md. Moyeenuddin Khan",
+      "department": "Developer",
+      "designation": "Programmer",
+      "joiningDate": "03/12/2017",
+      "phone": "01735834000",
+      "bloodGroup": "A(+VE)",
+      "email": "moyeenuddinkhan@gmail.com",
+      "education": "BSc in CSE"
+    },
+    {
+      "id": "92",
+      "name": "Md. Mahfujul Haque",
+      "department": "Management",
+      "designation": "Project Manager",
+      "joiningDate": "01/01/2019",
+      "phone": "01738069084",
+      "bloodGroup": "A(+VE)",
+      "email": "mahfujul.npi@gmail.com",
+      "education": "BSc in CSE"
+    },
+    {
+      "id": "93",
+      "name": "Md. Musa Joarder",
+      "department": "Management",
+      "designation": "Sr. Exicutive",
+      "joiningDate": "01/05/2019",
+      "phone": "01918041463",
+      "bloodGroup": "B(-VE)",
+      "email": "mdsujan.kcc@gmail.com",
+      "education": "MBS"
+    },
+    {
+      "id": "97",
+      "name": "Abdul Mumin Pervez",
+      "department": "Developer",
+      "designation": "Programmer",
+      "joiningDate": "11/11/2019",
+      "phone": "01717315682",
+      "bloodGroup": "B(+VE)",
+      "email": "pervez.ist@gmail.com",
+      "education": "M.Sc in CSE"
+    },
+    {
+      "id": "151",
+      "name": "Suraya Khatun",
+      "department": "Developer",
+      "designation": "Jr. Programmer",
+      "joiningDate": "01/06/2020",
+      "phone": "01742921920",
+      "bloodGroup": "A(+VE)",
+      "email": "sarminsuraya@gmail.com",
+      "education": "Diploma in Computer Technology"
+    },
+    {
+      "id": "169",
+      "name": "Md. Kamrul Bari",
+      "department": "Developer",
+      "designation": "Programmer",
+      "joiningDate": "15/06/2021",
+      "phone": "01856991178",
+      "bloodGroup": "B(+VE)",
+      "email": "kamrulbprio0523@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "170",
+      "name": "Md. Sadaf Rahman",
+      "department": "Developer",
+      "designation": "Programmer",
+      "joiningDate": "15/06/2021",
+      "phone": "01630657735",
+      "bloodGroup": "B(+VE)",
+      "email": "rahmansadaf46@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "171",
+      "name": "Sabikunnahar Bristy",
+      "department": "Developer",
+      "designation": "Asst. Programmer",
+      "joiningDate": "15/06/2021",
+      "phone": "01600185059",
+      "bloodGroup": "B(+VE)",
+      "email": "sabikun35-1806@diu.edu.bd",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "182",
+      "name": "Bashir Hossain",
+      "department": "Developer",
+      "designation": "Asst. Programmer",
+      "joiningDate": "01/12/2021",
+      "phone": "01748957005",
+      "bloodGroup": "B(+VE)",
+      "email": "boshir.rasulpur@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "186",
+      "name": "Bashir Hossain",
+      "department": "Developer",
+      "designation": "Jr. Programmer",
+      "joiningDate": "01/02/2022",
+      "phone": "01534683973",
+      "bloodGroup": "AB(+VE)",
+      "email": "boshir.rasulpur@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "204",
+      "name": "Md. Mahedi Hasan",
+      "department": "Developer",
+      "designation": "Jr. Programmer",
+      "joiningDate": "08/10/2022",
+      "phone": "01775834102",
+      "bloodGroup": "",
+      "email": "",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "206",
+      "name": "Abdur Rahim",
+      "department": "Developer",
+      "designation": "Deployment Engineer",
+      "joiningDate": "16/10/2022",
+      "phone": "01930473542",
+      "bloodGroup": "",
+      "email": "abrahim.ctech@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "116",
+      "name": "Md. Shohanurzaman Roni",
+      "department": "Developer",
+      "designation": "Call Center",
+      "joiningDate": "01/03/2020",
+      "phone": "01926701510",
+      "bloodGroup": "O(+VE)",
+      "email": "ronijessore@gmail.com",
+      "education": "B.Sc in CSE"
+    },
+    {
+      "id": "168",
+      "name": "Md. Feroz Ahmed",
+      "department": "Developer",
+      "designation": "Call Center",
+      "joiningDate": "01/04/2021",
+      "phone": "01744952294",
+      "bloodGroup": "O (+VE)",
+      "email": "ferdush.ahmed63@gmail.com",
+      "education": "Diploma in Computer Technology"
+    }
+  ]
+}

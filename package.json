@@ -1,0 +1,17 @@
+{
+  "name": "responsive-table-design",
+  "version": "1.0.0",
+  "main": "empList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-json": "json-server --watch empList.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
