@@ -197,6 +197,17 @@
       "bloodGroup": "O (+VE)",
       "email": "ferdush.ahmed63@gmail.com",
       "education": "Diploma in Computer Technology"
+    },
+    {
+      "id": "66",
+      "name": "Test",
+      "department": "Tets",
+      "designation": "poo",
+      "email": "fg@gmai.com",
+      "phone": "3121286800",
+      "joiningDate": "2024-08-01",
+      "bloodGroup": "A+",
+      "education": "Diploma in Computer"
     }
   ]
 }
