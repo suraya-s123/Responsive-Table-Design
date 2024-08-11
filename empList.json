@@ -60,10 +60,10 @@
       "name": "Md. Mahfujul Haque",
       "department": "Management",
       "designation": "Project Manager",
-      "joiningDate": "01/01/2019",
+      "email": "mahfujul.npi@gmail.comwe",
       "phone": "01738069084",
+      "joiningDate": "2024-08-01",
       "bloodGroup": "A(+VE)",
-      "email": "mahfujul.npi@gmail.com",
       "education": "BSc in CSE"
     },
     {
@@ -206,6 +206,28 @@
       "email": "fg@gmai.com",
       "phone": "3121286800",
       "joiningDate": "2024-08-01",
+      "bloodGroup": "A+",
+      "education": "Diploma in Computer"
+    },
+    {
+      "id": "dd444",
+      "name": "ঘজ",
+      "department": "Tets",
+      "designation": "poo",
+      "email": "suraya@gmai.com",
+      "phone": "11111111111",
+      "joiningDate": "2024-08-01",
+      "bloodGroup": "A+",
+      "education": "bn"
+    },
+    {
+      "id": "Su22",
+      "name": "Sarmin",
+      "department": "",
+      "designation": "Jr. Programmer",
+      "email": "fg@gmai.com",
+      "phone": "01709876543",
+      "joiningDate": "2024-07-30",
       "bloodGroup": "A+",
       "education": "Diploma in Computer"
     }
